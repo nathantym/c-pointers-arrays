@@ -27,3 +27,10 @@ screen.
 Write a function sort() that takes in an int* a and int size, and sorts the array using 
 pointer arithmetic.
 ```
+
+<b>Problem 4 - unfinished (four.c)</b>
+```
+Modify this program to take in a linked list of structs that you create (with a int data 
+element, and a struct ListNode*). Note that you should swap the actual nodes and not just 
+the values within those nodes. next pointer), and sort the linked list instead.
+```
