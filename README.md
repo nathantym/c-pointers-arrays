@@ -28,7 +28,7 @@ Write a function sort() that takes in an int* a and int size, and sorts the arra
 pointer arithmetic.
 ```
 
-<b>Problem 4 - unfinished (four.c)</b>
+<b>Problem 4 (four.c) - unfinished </b>
 ```
 Modify this program to take in a linked list of structs that you create (with a int data 
 element, and a struct ListNode*). Note that you should swap the actual nodes and not just 
